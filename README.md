@@ -15,8 +15,10 @@
   </a>
 </div>
 
+<br/>
 
-### Glad to see you here!  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Glad+to+see+you+here!;Welcome+to+my+GitHub!;Crafting+beautiful+web+experiences!" alt="Typing SVG" />
+
 I am a seasoned Front-end Developer from Ukraine with over seven years of extensive experience. Throughout my career, I have honed my skills in web development, ensuring that I can create clean, maintainable, and responsive web interfaces.
 
 My ability to collaborate with UX/UI designers and Back-end developers has allowed me to deliver comprehensive and user-friendly web solutions. My goal is to leverage my diverse skill set to continue creating exceptional user experiences and drive the success of future projects. I am inspired by creating great work with people who want to build something awesome!  
