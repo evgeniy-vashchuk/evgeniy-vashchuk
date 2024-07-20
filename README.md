@@ -51,6 +51,6 @@ My ability to collaborate with UX/UI designers and Back-end developers has allow
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,bootstrap,tailwind,js,jquery,react,ts,redux,gulp,git,wordpress" />
   </a>
 </p>
